@@ -17,6 +17,7 @@ public class WelcomeActivity extends AppCompatActivity {
                 Intent intent = new Intent(WelcomeActivity.this,HomeActivity.class);
                 startActivity(intent);
                 finish();
+                //我的天
             }
         },2000);
     }
