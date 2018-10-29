@@ -20,7 +20,7 @@ import java.util.List;
 public class SectionUseActivity extends BaseActivity {
     private RecyclerView mRecyclerView;
     private List<MySection> mData;
-
+    //拉拉
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
